@@ -1,4 +1,4 @@
 {
-  "pair": "Net_Sales–Footfall",
-  "correlation": 0.7370
+  "pair": "Avg_Basket-Net_Sales",
+  "correlation": 0.618166
 }
